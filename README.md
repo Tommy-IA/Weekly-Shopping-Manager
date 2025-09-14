@@ -16,7 +16,7 @@ This project is not meant to be "perfect software", but a **practical exercise**
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/weekly-shopping-manager.git
+   git clone https://github.com/Tommy-IA/weekly-shopping-manager.git
 
 Open the project folder.
 
