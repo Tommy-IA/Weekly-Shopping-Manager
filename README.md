@@ -9,7 +9,7 @@ The program allows the user to:
 - Assign a price to each product.
 - Display the complete list with costs.
 - Calculate the total expense.
-- Show a warning message if the total exceeds a certain limit (e.g. 100€).
+- Show a warning message if the total exceeds a certain limit (e.g. 100£).
 
 This project is not meant to be "perfect software", but a **practical exercise** to learn programming concepts step by step.
 
