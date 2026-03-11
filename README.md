@@ -53,6 +53,5 @@ Allow the user to remove products already added.
 Save the shopping list to a .txt file and reload it later.
 
 ## Author
-*Tommaso Marras*
-Learning Python, Machine Learning, and AI tools while working in London.
-This project is part of my journey to transition into tech and remote work.
+**Tommaso Marras**  
+[LinkedIn](https://www.linkedin.com/in/tommaso-marras-a681252ba) · [GitHub](https://github.com/Tommy-IA)
